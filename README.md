@@ -3,3 +3,4 @@
 <br> 1.print hello world.
 <br> 2.basic python
 <br> 3. To intput variables.
+loops and function.
