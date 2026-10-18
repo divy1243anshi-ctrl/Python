@@ -3,4 +3,4 @@
 <br> 1.print hello world.
 <br> 2.basic python
 <br> 3. To intput variables.
-data type in python.
+<br> data type in python.
